@@ -1,0 +1,14 @@
+[
+  {
+    "codigo": 1,
+    "nombre": "Juan Pérez",
+    "direccion": "Calle Principal 123",
+    "telefono": "555-1234"
+  },
+  {
+    "codigo": 2,
+    "nombre": "María García",
+    "direccion": "Avenida Central 456",
+    "telefono": "555-5678"
+  }
+]
